@@ -72,6 +72,7 @@ print "\n\n6 --------------------------------\n"
 
 from collections import defaultdict
 
+
 def leaders(xs, top=100):
     counts = defaultdict(int)
     for x in xs:

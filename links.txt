@@ -1,3 +1,13 @@
 http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
 https://bitbucket.org/hrojas/learn-pandas
 http://nbviewer.jupyter.org/gist/rpmuller/5920182 - Crash Course in Python for Scientists
+
+Подробнее про решающие деревья в sklearn
+http://scikit-learn.org/stable/modules/tree.html
+
+Работа с пропущенными значениями в pandas
+http://pandas.pydata.org/pandas-docs/stable/missing_data.html
+
+Подробнее о деревьях и их построении
+https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem04_trees.pdf
+
